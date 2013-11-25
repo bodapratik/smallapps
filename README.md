@@ -1,3 +1,10 @@
 smallapps
 =========
-Vims
+
+
+
+Author : Boda Pratik
+
+Members:
+        Patel Vimal (Vims)
+        Joshi Kiran.
