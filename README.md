@@ -6,5 +6,5 @@ smallapps
 Author : Boda Pratik
 
 Members:
-        Patel Vimal (Vims)  \n\n
+        Patel Vimal (Vims)  </br>
         Joshi Kiran.
